@@ -28,3 +28,7 @@ The tool was written for Python 3.7.6. Earlier versions may be sufficient, but n
 3. Running the code
 ---------------------------------------------------
 To run the solver, you can use the following command in a terminal:
+
+Run > python3 PolyAR.py
+
+Outputs: UNSAT
